@@ -220,7 +220,7 @@ body {
   width: 9vmin;
   height: 4vmin;
   border-radius: 50%;
-  background-color: #fff;
+  background-color: #008B8B;
 }
 
 .flower__white-circle::after {
@@ -537,7 +537,7 @@ body {
 .flower__g-long {
   --w: 2vmin;
   --h: 6vmin;
-  --c: #fff;
+  --c: #008B8B;
   position: absolute;
   bottom: 10vmin;
   left: -3vmin;
@@ -592,7 +592,7 @@ body {
   width: 30vmin;
   height: 50vmin;
   border-top-left-radius: 100%;
-  border-left: 2vmin solid #fff;
+  border-left: 2vmin solid #008B8B;
   background-image: linear-gradient(to bottom, transparent, var(--dark-color) 60%);
   -webkit-mask-image: linear-gradient(to top, transparent 30%, #fff 60%);
 }
@@ -798,7 +798,7 @@ body {
   width: 30vmin;
   height: 50vmin;
   border-top-left-radius: 100%;
-  border-left: 2vmin solid #fff;
+  border-left: 2vmin solid #008B8B;
   -webkit-mask-image: linear-gradient(to top, transparent 25%, #fff 50%);
   position: relative;
   z-index: 1;
