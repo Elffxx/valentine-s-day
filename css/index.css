@@ -102,7 +102,7 @@ a {
 }
 
 .btn:hover .text {
-  color: white;
+  color: red;
 }
 
 .btn:hover .sparkle {
